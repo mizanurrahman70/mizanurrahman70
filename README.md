@@ -1,4 +1,4 @@
-![Wev Devoloper](https://media.licdn.com/dms/image/D5616AQEixiI3BP-_5A/profile-displaybackgroundimage-shrink_350_1400/0/1716050492478?e=1722470400&v=beta&t=EACqQqH2uMlRhYfdzO6erfGKltZeOPrBpRfIVbT2heY)
+![Wev Devoloper](https://i.ibb.co/Z6BND8B/banner.png)
 ### Hi there 👋,  Md Mizanur Rahman
 #### Wev Devoloper
 
@@ -32,7 +32,5 @@ Skills: MongoDB, Express.js, Node.js, fire-base,React,JavaScript, CSS,HTML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mizanurrahman70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mizanur-rahman70/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mizanurrahman.dev70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mizanur_70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/u/tuinext)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman70)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizanurrahman70&show_icons=true)  
+)  
 
