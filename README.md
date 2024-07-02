@@ -25,6 +25,8 @@ Passion & Learning:
 I am deeply passionate about frontend development and constantly stay up to date with the latest trends and technologies. I participate in developer communities, attend conferences, and engage in online learning to expand my skill set and knowledge.
 I'm excited to start my career as a frontend developer and am eager to connect with professionals in the field
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,git,github,js,react,vite,nodejs,express,mongodb,netlify,vercel,vscode,firebase,figma&perline=4)](https://skillicons.dev)
 Skills: MongoDB, Express.js, Node.js, fire-base,React,JavaScript, CSS,HTML
 
 
