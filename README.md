@@ -29,7 +29,7 @@ I'm excited to start my career as a frontend developer and am eager to connect w
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,git,github,js,react,vite,nodejs,express,mongodb,netlify,vercel,vscode,firebase,figma&perline=4)](https://skillicons.dev)
 
 
-
+Contact Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mizanurrahman70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mizanur-rahman70/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mizanurrahman.dev70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mizanur_70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/u/tuinext)  
 
 <p align="center">
