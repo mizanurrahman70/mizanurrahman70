@@ -1,4 +1,4 @@
-![Wev Devoloper] https://ibb.co/N9h7gMZ
+![Wev Devoloper](https://ibb.co/N9h7gMZ)
 ### Hi there 👋,  Md Mizanur Rahman
 #### Wev Devoloper
 
