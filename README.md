@@ -1,4 +1,4 @@
-![Wev Devoloper](https://ibb.co/N9h7gMZ)
+![Wev Devoloper](https://i.ibb.co/jyKH9Sg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ### Hi there 👋,  Md Mizanur Rahman
 #### Wev Devoloper
 
