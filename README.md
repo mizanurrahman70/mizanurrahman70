@@ -37,7 +37,7 @@ Contact Me
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizanurrahman70&theme=radical" alt="Naiem Joy's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizanurrahman70&theme=radical" alt="mizanur rahman's GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanurrahman70&theme=radical" alt="Profile Summary" />
 </p>
 
