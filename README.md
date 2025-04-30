@@ -34,12 +34,25 @@ I’m excited to grow my career as a frontend developer and connect with profess
 
 ---
 
-### 📞 Contact Me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mizanurrahman70)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mizanur-rahman70/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mizanurrahman.dev70)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mizanur_70)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/u/tuinext)
+### 📞 Contact Me
+
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/mizanurrahman70" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mizanur-rahman70/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.facebook.com/mizanurrahman.dev70" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" />
+  </a>
+  <a href="https://twitter.com/mizanur_70" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" />
+  </a>
+  <a href="https://www.reddit.com/user/u/tuinext" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Reddit" height="40" />
+  </a>
+</div>
 
 ---
 
@@ -79,7 +92,7 @@ I’m excited to grow my career as a frontend developer and connect with profess
 
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanurrahman70&theme=radical" alt="GitHub Streak" />
+
 
 
 
