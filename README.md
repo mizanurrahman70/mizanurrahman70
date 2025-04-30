@@ -9,7 +9,7 @@ I’m a passionate frontend developer with 1 year of experience crafting engagin
 
 ### 🛠️ Technical Skills
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React  
+- **Frameworks/Libraries:** React js , next js 
 - **Tools & Platforms:** Git, GitHub  
 - **MERN Stack:** MongoDB, Express.js, React.js, Node.js, Firebase  
 
