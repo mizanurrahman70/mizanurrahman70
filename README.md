@@ -9,7 +9,7 @@ I’m a passionate frontend developer with 1 year of experience crafting engagin
 
 ### 🛠️ Technical Skills
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React js , next js 
+- **Frameworks/Libraries:** React.js, Next.js  
 - **Tools & Platforms:** Git, GitHub  
 - **MERN Stack:** MongoDB, Express.js, React.js, Node.js, Firebase  
 
@@ -78,6 +78,7 @@ I’m excited to grow my career as a frontend developer and connect with profess
 ---
 
 ### 🏆 GitHub Achievements & Stats
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mizanurrahman70" alt="Trophies" />
@@ -91,13 +92,5 @@ I’m excited to grow my career as a frontend developer and connect with profess
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mizanurrahman70&show_icons=true&locale=en" alt="GitHub Stats" />
 
 <br/>
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mizanurrahman70&theme=github-light)
 
-
-
-
-
-
-
-
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mizanurrahman70&theme=github-light)
