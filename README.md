@@ -1,54 +1,54 @@
-# Hi there 👋, I'm Md Mizanur Rahman  
-### Web Developer  
+![Web Developer](https://i.ibb.co/jyKH9Sg/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-I’m a passionate frontend developer with 1 year of experience crafting engaging, user-friendly web applications. I specialize in transforming design concepts into fully functional digital experiences, using modern technologies and frameworks.
+### Hi there 👋, I'm Md Mizanur Rahman  
+#### Web Developer  
+
+I’m a passionate frontend developer with 1 year of experience crafting engaging, user-friendly web applications and interfaces. I specialize in turning design concepts into fully functional digital experiences, using modern technologies and frameworks to deliver high-quality results.
 
 ---
 
 ### 🛠️ Technical Skills
-I am skilled in the following technologies:
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks/Libraries:** React.js, Next.js, Redux  
+- **Tools & Platforms:** Git, GitHub, WordPress Gutenberg  
+- **MERN Stack:** MongoDB, Express.js, React.js, Next.js, Node.js, Firebase
 
-#### **Languages**
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
-#### **Frontend Frameworks**
-- React.js
-- Next.js
-
-#### **Backend Frameworks**
-- Express.js
-- Node.js
-
-#### **Databases**
-- MongoDB
-- Firebase
-
-#### **Other Tools & Technologies**
-- Git, GitHub
-- Redux
-- Bootstrap
-- TailwindCSS
-- Figma (Design)
 
 ---
 
 ### 💡 Key Strengths
-- **Problem-Solving:** Logical and solution-oriented approach to development challenges.  
-- **Adaptability:** Quick to adopt new technologies and frameworks.  
-- **Teamwork:** Collaborating effectively and sharing knowledge.
+- **Problem-Solving:** Tackle complex front-end development challenges with a logical and solution-oriented mindset.  
+- **Adaptability:** Quick to learn and adopt new technologies and frameworks.  
+- **Teamwork:** Enjoy collaborating within teams and contributing through effective communication and knowledge sharing.
 
 ---
 
 ### 🧠 Experience
-I have experience working on various projects, from small websites to enterprise-level applications, focusing on user-centric design to enhance usability and performance.
+
+I’ve worked on a variety of projects, from small websites to large enterprise-level applications. My approach emphasizes user-centric design to enhance usability and performance.
+
+#### 🚀 Notable Projects & Contributions:
+
+- 🧩 **ABlocks – Gutenberg Block Development**  
+  Developed custom WordPress Gutenberg blocks for ABlocks, focusing on performance, customization, and user experience.
+  - 📊 **Table Block** – Dynamic row and cell management with optimized rendering.
+  - 📢 **Social Share Block** – Fully customizable social icons with icon/text toggle, hover animation, and responsive layout.
+  - 📌 **Notice Block** – Styled notice/message blocks with dismiss options and default templates.
+  - 🧮 **Filterable Block** – Built filterable content layouts with category/tag filtering and sorting logic.
+  - 🍴 **Menu Block** – Created a responsive, multi-column menu builder using Gutenberg inner blocks.
+
+- 🛠️ **Kodezen Block Development**  
+  Contributed to advanced block features for the Kodezen project, enhancing UI and customization experience using React and Gutenberg APIs.
+
+These projects allowed me to deeply engage with WordPress development, JavaScript, React, PHP, and SCSS while maintaining optimal performance and clean user interfaces.
+
 
 ---
 
 ### 📚 Passion for Learning
-I actively follow the latest industry trends, participate in developer communities, and engage in continuous learning.
+I’m deeply passionate about frontend development. I actively follow the latest industry trends, participate in developer communities, attend conferences, and engage in continuous online learning.
+
+I’m excited to grow my career as a frontend developer and connect with professionals in the field.
 
 ---
 
@@ -93,10 +93,6 @@ I actively follow the latest industry trends, participate in developer communiti
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript" height="40"/></a>
 </p>
 
----
-
-### 🏆 GitHub Stats
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanurrahman70&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 <br/>
@@ -104,13 +100,3 @@ I actively follow the latest industry trends, participate in developer communiti
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mizanurrahman70&show_icons=true&locale=en" alt="GitHub Stats" />
 
 <br/>
-
----
-
-### 📌 Pinned Repositories
-
-Here are some of my notable projects:
-
-- [**Project 1**](https://github.com/mizanurrahman70/project1): A web app built with React.js and Node.js. It implements a dynamic, real-time user interface.
-- [**Project 2**](https://github.com/mizanurrahman70/project2): A full-stack web app that allows users to interact with databases and perform CRUD operations using MongoDB and Express.js.
-- [**Project 3**](https://github.com/mizanurrahman70/project3): An e-commerce site developed with Next.js for server-side rendering, improving SEO and performance.
